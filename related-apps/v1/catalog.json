@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-25T00:00:00Z",
+  "groups": [
+    {
+      "id": "matching-learning",
+      "name": "マッチング学習シリーズ",
+      "apps": [
+        {
+          "id": "shortcut-key-win",
+          "bundleIdentifier": "com.tailored4uapp.ShortcutKeyWin",
+          "name": "short cutマッチング（Ctrl）",
+          "subtitle": "PC時短キーをゲーム感覚で暗記",
+          "appStoreId": "6799621275",
+          "appStoreURL": "https://apps.apple.com/jp/app/id6799621275",
+          "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/38/b6/5b38b64f-eaea-4c94-c6e9-fe9c50c07e1b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+          "isPublished": true,
+          "sortOrder": 1
+        },
+        {
+          "id": "excel-formula-matching",
+          "bundleIdentifier": "com.kawabatakoki.ExcelFormulaMatching",
+          "name": "関数マッチング",
+          "subtitle": "スワイプで表計算関数を楽しく暗記",
+          "appStoreId": "6803084177",
+          "appStoreURL": "https://apps.apple.com/jp/app/id6803084177",
+          "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/07/cd/f207cd08-4097-5f2a-efab-12c33b4c2fde/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+          "isPublished": true,
+          "sortOrder": 2
+        }
+      ]
+    }
+  ]
+}
