@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T00:00:00Z",
+  "updatedAt": "2026-08-29T00:00:00Z",
   "groups": [
     {
       "id": "matching-learning",
@@ -27,6 +27,17 @@
           "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/07/cd/f207cd08-4097-5f2a-efab-12c33b4c2fde/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
           "isPublished": true,
           "sortOrder": 2
+        },
+        {
+          "id": "shortcut-key-mac",
+          "bundleIdentifier": "com.kawabatakoki.ShortcutKeyMac",
+          "name": "short cutマッチング（command）",
+          "subtitle": "Mac時短キーをゲーム感覚で暗記",
+          "appStoreId": "6804139859",
+          "appStoreURL": "https://apps.apple.com/jp/app/id6804139859",
+          "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/8f/40/058f4062-774f-5003-0fe4-956dfd24be6f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+          "isPublished": true,
+          "sortOrder": 3
         }
       ]
     }
