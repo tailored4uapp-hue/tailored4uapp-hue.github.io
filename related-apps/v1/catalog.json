@@ -42,12 +42,12 @@
         {
           "id": "matching-git",
           "bundleIdentifier": "com.tailored4uapp.MatchingGit",
-          "name": "Gitマッチング",
-          "subtitle": "Git用語とコマンドをゲーム感覚で暗記",
-          "appStoreId": "0",
-          "appStoreURL": "https://apps.apple.com/jp/app/id0",
-          "iconURL": "https://apps.apple.com/",
-          "isPublished": false,
+          "name": "Git マッチング",
+          "subtitle": "用語とコマンドをカードで覚える",
+          "appStoreId": "6820950128",
+          "appStoreURL": "https://apps.apple.com/jp/app/id6820950128",
+          "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/00/8c/8b008cab-5c72-b021-d7ca-343bcf052bcd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+          "isPublished": true,
           "sortOrder": 4
         }
       ]
